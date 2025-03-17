@@ -401,4 +401,8 @@ h1 {
   .hover-img {
     width: 140px;
   }
+  .big-text{
+   font-size: 80px;
+   line-height:95%;
+  }
 }
